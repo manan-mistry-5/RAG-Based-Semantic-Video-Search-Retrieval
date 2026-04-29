@@ -1,0 +1,1797 @@
+{
+    "chunks": [
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 0.0,
+            "end": 10.76,
+            "text": " In the last video, you guys gave me a lot of love.  It's my pleasure to keep this course free.  I deserve a like for this free course.  You know, when I started web development,  there was no comprehensive course of this quality."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 10.76,
+            "end": 24.44,
+            "text": " Forget free or paid, there was no such course.  So I can understand how important it is for some people to be free of this course.  And trust me, I live up to the expectations.  With that said, like this video  because in this video, we are going to make our first website."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 24.44,
+            "end": 38.0,
+            "text": " And in this video, I am going to order iPhone 15 Pro Max.  Why? How? What will happen? We will see that in the next video.  For many of you, this will be the first website of your life.  So it's going to be fun.  You guys are excited, right?"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 38.0,
+            "end": 50.120000000000005,
+            "text": " Write in the comment, I am excited.  And whatever I am excited will write in the comment,  I will give heart to all those comments.  In this video, we will learn to link an HTML website with CSS and JavaScript.  Along with that, in this video, I am going to give you guys"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 50.120000000000005,
+            "end": 67.56,
+            "text": " notes, cheat sheets, and many more resources.  I will tell you guys some techniques that I have learned in years.  And it will literally make your web development speed 10x.  In this video, we will also see how to make our VS Code awesome.  So that your VS Code screen will look killer."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 67.56,
+            "end": 84.83999999999999,
+            "text": " In this video, I will also tell you guys  how to earn money from web development.  So let's start with full energy.  Let's roll the intro.  \ud83c\udfb6Music\ud83c\udfb6"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 84.83999999999999,
+            "end": 96.47999999999999,
+            "text": " Alright guys, so we have come to our computer screen.  Before moving forward in the video, I would like to tell you all  that do access this playlist.  Secondly, we are very close to 5 million subscribers.  So if you haven't hit the subscribe button yet, then do it."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 96.47999999999999,
+            "end": 114.19999999999999,
+            "text": " In today's video, we are going to make our first website,  as I have already told you.  The first thing we will do is to customize our VS Code.  So this is the folder in which we started our web development series.  Now I have to give you guys the source code of this web development series."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 114.19999999999999,
+            "end": 128.8,
+            "text": " So I will configure Git here.  Now it is not necessary for you to know about Git.  But I will fire the GitHub desktop here.  And what I will do here is that I will add a new repository.  I will click on add here."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 128.8,
+            "end": 140.68,
+            "text": " I will click on create new repository.  I will name it Sigma Web Dev Codes.  And this is our folder.  So I will select this folder.  I will initialize this repository with readme."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 140.68,
+            "end": 153.4,
+            "text": " And I will write source code for Sigma Web Development Codes here.  I will click on create repository.  By doing this, a repository will be created here  whose name is Sigma Web Dev Codes.  I will put all the things relevant to the first video here."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 153.4,
+            "end": 163.6,
+            "text": " So these two files were relevant to the first video.  So I will name it video 1.  Right click, new folder.  I will make it video 1.  And I will move these two files to the video 1 folder."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 163.6,
+            "end": 173.28,
+            "text": " I am not pushing all these videos on Git.  These are sample videos.  You can use your sample videos.  So now I will update the source code here.  And I will push it on Git here."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 173.28,
+            "end": 183.56,
+            "text": " Now how do we push it on Git here?  You don't need to learn this.  But this procedure is very simple.  Why do we use Git?  I would like to tell you that Git is used by web developers."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 183.56,
+            "end": 198.84,
+            "text": " And general coders use it.  When they have to collaborate their code with other people.  So what will happen is that you will work with many programmers.  And those programmers will collaborate with your source code.  And to do this kind of collaboration,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 198.84,
+            "end": 207.08,
+            "text": " they will also push some code.  You will also push some code.  Maybe one person is editing a file.  One person is editing another file.  So GitHub is used here."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 207.08,
+            "end": 217.92000000000002,
+            "text": " And what is GitHub Desktop?  GitHub Desktop is a utility to use Git.  The difference between Git and GitHub is that  Git is open source.  But GitHub is a Microsoft-owned company."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 217.92000000000002,
+            "end": 232.6,
+            "text": " And by using Git,  repositories help you to host on your web interface.  I will tell you more about Git in the coming videos.  But I am pushing this repository on my GitHub account.  So you will get the link of the repository in the description."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 232.6,
+            "end": 240.56,
+            "text": " So as I give you links,  you will get all the code if you follow it.  And I will talk about it later.  I am making this video,  the course,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 240.56,
+            "end": 251.72,
+            "text": " in such a way that absolute beginners can follow it.  So as I click on Publish Depository,  this code,  this folder will sync with my GitHub account.  So all the code that I am going to upload here,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 251.72,
+            "end": 260.24,
+            "text": " will go to my GitHub account and will keep syncing.  The changes that will be here will be there.  If someone has made changes there,  then I can pull it here.  I can pull it by clicking here,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 260.24,
+            "end": 268.32,
+            "text": " by doing Fetch Origin.  I will teach you all this.  We will dedicate a whole video to Git.  You don't worry at all.  I did this thing so that I can give you code."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 268.32,
+            "end": 276.68,
+            "text": " Now I will make a folder called Video2 here.  And I will go inside this Video2 folder.  I will press Shift-Right Click.  And I will do Open with VS Code.  So here is Open with Code."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 276.68,
+            "end": 286.32000000000005,
+            "text": " You will get this option.  If you have installed VS Code as I said.  If you have made any changes and you have not checked,  those checkboxes that I showed you,  then you may have a problem."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 286.32000000000005,
+            "end": 295.8,
+            "text": " So we will do No to this.  We will dismiss the notification.  Now whatever file I make here,  like I will make Index.html here,  that file will be made here too."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 295.8,
+            "end": 305.28,
+            "text": " So everyone knows about this now.  And I know there are a lot of intermediate people here  who are saying that we already know all these things.  But I am making this course in such a way  that all beginners can also follow along."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 305.28,
+            "end": 314.56,
+            "text": " So I will make three files here.  One I made here, Index.html.  The second file I am going to make,  I am going to make style.css.  And the third file I am going to make is script.js."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 314.56,
+            "end": 324.04,
+            "text": " And the name of these files can be anything.  But I just want to keep these files self-explanatory.  So that by looking at their name,  we can know what they are doing.  Index.html is an HTML file."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 324.04,
+            "end": 335.28000000000003,
+            "text": " Script.js is a JavaScript file.  Style.css is a style sheet.  So I made these three files here.  I will go to Index.html and put an exclamation mark.  And as soon as I put an exclamation mark,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 335.28000000000003,
+            "end": 344.88000000000005,
+            "text": " you see this code has come here.  I will click on View Word Wrap  so that you can see this code.  The horizontal scroll bar moves away from the word wrap.  I checked the word wrap here."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 344.88000000000005,
+            "end": 358.88000000000005,
+            "text": " So now you see here that  we will understand this code.  But for now, you understand that this code is HTML code.  Let's use it to make a website.  Now come to the extensions tab of VS Code."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 358.88000000000005,
+            "end": 375.24,
+            "text": " Extensions are used to enhance  the code.  We use extensions to make VS Code better.  The extensions of VS Code help us write code.  So which extension will we use?"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 375.24,
+            "end": 388.08,
+            "text": " First of all, I will put some extensions here  which will make our VS Code killer.  If your friends see it, they will say,  brother, do it.  So what I will do here quickly is VS Code Icons."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 388.08,
+            "end": 396.96,
+            "text": " There is an extension called VS Code Icons  which I will install as soon as I do.  You will find out the same way  that whatever file it is,  like you are seeing here, its icon has come."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 396.96,
+            "end": 406.76,
+            "text": " Earlier this icon was not coming.  If you look at the video behind,  you can see all these icons here.  Thanks for installing VS Code Icons.  I will activate it here."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 406.76,
+            "end": 413.92,
+            "text": " And here you can see that  our icons are looking good.  In the coming time, if we make a folder,  like if I made a folder,  then this kind of icon will come."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 413.92,
+            "end": 421.68,
+            "text": " So these icons look a little good.  We will come back to the extensions tab.  And there are a lot of good themes here  that you can use.  There are some themes,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 421.68,
+            "end": 429.76,
+            "text": " Jellyfish theme,  there is one GitHub theme,  there are many themes.  You can use these themes.  But I can only put one theme at a time."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 429.76,
+            "end": 441.96,
+            "text": " This is the default VS Code theme  which shows you VS Code in this way.  Now if I change my theme,  then my VS Code will look different.  I will show you which one I will prefer"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 441.96,
+            "end": 451.12,
+            "text": " when it comes to theme.  First of all, I will show you GitHub theme  here how it looks.  So GitHub theme is officially  a theme provided by GitHub."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 451.12,
+            "end": 460.2,
+            "text": " Now look here, GitHub dark,  GitHub light, GitHub dimmed,  GitHub colorblind.  I like this one a little better  because the colors in it are..."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 460.2,
+            "end": 473.52,
+            "text": " Sorry, I don't like this one.  I will choose GitHub dark here  because the colors here are different.  Another favorite theme is Jellyfish.  And here a lot of people like Jellyfish theme."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 473.52,
+            "end": 481.4,
+            "text": " If I install it,  then you will see VS Code like this.  You can see Jellyfish like this.  After this, there is a material theme  which is also very popular."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 481.4,
+            "end": 492.23999999999995,
+            "text": " And if I use material theme here,  material theme and material theme icons,  we had to install this material theme.  If you have installed material theme icons,  then you can change your icons"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 492.23999999999995,
+            "end": 500.88,
+            "text": " to control which extension.  And here we have installed  a lot of extensions.  I will also tell you how to delete extensions.  Here I am showing VS Code material theme icons"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 500.88,
+            "end": 511.0,
+            "text": " like this.  And if you want, you can use VS Code icons.  If I want the material theme icons  to be removed,  then I will simply remove it like this."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 511.0,
+            "end": 522.12,
+            "text": " And all my extensions are visible here.  Like this material theme icon.  And I want to use these,  then I will select it.  And if I want, I can also uninstall it."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 522.12,
+            "end": 529.96,
+            "text": " And sometimes when we uninstall anything,  then reload is required.  So I will have to click on reload required.  And when I click on reload required,  then my VS Code will be reloaded."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 529.96,
+            "end": 539.16,
+            "text": " So you can customize your VS Code  according to your needs.  I will select VS Code icons  so that my icons look like this.  I like this a little."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 539.16,
+            "end": 547.28,
+            "text": " I also like Jellyfish theme a lot.  After this, there is another extension  whose name is Prettier.  I will not install it either.  But I just want to tell you."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 547.28,
+            "end": 554.92,
+            "text": " There is another extension, ES7.  You will know when we react.  And yes, we will react in this course.  For all those asking.  Sorry for the spoilers,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 554.92,
+            "end": 564.64,
+            "text": " but we are going to react in this course.  So here is ES7 plus React Redux,  React Native Snippets.  This extension gives you React snippets.  We will use it when we react."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 564.64,
+            "end": 575.48,
+            "text": " We will not install it for now.  But now the most important extension  is called Live Preview.  We will install this extension called Live Preview.  Because this is a very useful extension."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 575.48,
+            "end": 586.56,
+            "text": " All the extensions I told you  mostly help you  to change the look and feel of VS Code.  But the extension I am telling you today,  Live Preview, will be used by you."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 586.56,
+            "end": 596.4399999999999,
+            "text": " Let's come to our HTML, CSS, JavaScript files.  So here are our HTML, CSS, and JavaScript files.  This is the HTML file.  This is some code  which tells the website"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 596.4399999999999,
+            "end": 602.56,
+            "text": " how to look.  Okay?  So here I am saying that  the title should have a document.  I will write here"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 602.56,
+            "end": 612.16,
+            "text": " Harry's first website.  Harry's course's first website.  The course's first website.  Harry's first website will be a lie.  Your first website."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 612.16,
+            "end": 617.52,
+            "text": " You guys write your name in this.  Okay?  Whatever your name is.  Key first website.  And if I write inside the body,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 617.52,
+            "end": 624.96,
+            "text": " Hey, this is my first website.  And everyone write congratulations  in the comment section.  Everyone who has this first website,  write congratulations."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 624.96,
+            "end": 632.4399999999999,
+            "text": " Congratulations for my first website.  Okay?  And congratulate each other.  Make the atmosphere in the comment section.  I also come to the comment section."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 632.4399999999999,
+            "end": 636.88,
+            "text": " Okay?  And I give you all my heart.  Hey, this is my first website.  Okay?  Now,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 636.88,
+            "end": 643.64,
+            "text": " how should I see this?  The biggest question of people is  there are two ways to see.  The extension we have installed,  Live Server."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 643.64,
+            "end": 652.12,
+            "text": " Live Preview, sorry.  Earlier, Live Server was also used a lot.  But Microsoft has released Live Preview.  So, I will recommend this latest extension.  Live Server also works."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 652.12,
+            "end": 658.6,
+            "text": " But I am not going to run Live Server.  I am going to use Live Preview.  After installing Live Preview,  you see this icon here.  You are seeing above."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 658.6,
+            "end": 665.08,
+            "text": " If you click on this,  your website will look like this.  Now you say that,  I want to see this website here.  In the browser."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 665.08,
+            "end": 671.88,
+            "text": " Because my website will be  visible in the browser.  So, if you want to see this in the browser,  click here.  Open in browser."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 671.88,
+            "end": 678.0400000000001,
+            "text": " It will open in the browser.  And I will tell you a fun thing.  Listen to the fun thing too.  You can close it from here.  And you can write here."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 678.0400000000001,
+            "end": 685.48,
+            "text": " Harry's course is good.  Assume you have written it.  I am praising my course.  But yes,  what is it?"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 685.48,
+            "end": 694.36,
+            "text": " Harry's course is good.  Okay, I wrote it here.  And you noticed one thing here.  I did not reload this website.  But even after that,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 694.36,
+            "end": 706.0799999999999,
+            "text": " it updated this content here.  Which I wrote in this VS Code.  That means whatever I write here,  will be updated here without reloading.  Will it be done or not?"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 706.0799999999999,
+            "end": 714.7199999999999,
+            "text": " Clap.  What should be the clap for us?  Okay, it will be done.  And here,  Hey, this is my first website."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 714.7199999999999,
+            "end": 723.3199999999999,
+            "text": " Harry's course is good.  Now I will write here.  Sigma Harry's course is good.  Sigma Harry's course is good.  Sigma Harry's course is good."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 723.3199999999999,
+            "end": 731.1999999999999,
+            "text": " Okay.  So, here you saw  how this extension will help us.  If you reload it,  it will not make any difference."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 731.1999999999999,
+            "end": 739.1600000000001,
+            "text": " Because it is being reloaded live.  So, there are two things.  Sometimes we want  our page to be previewed here.  I will close it."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 739.1600000000001,
+            "end": 746.8000000000001,
+            "text": " So that you can see the code.  Sometimes we want  our code to be seen here.  Because we want to see  its live preview."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 746.8000000000001,
+            "end": 755.28,
+            "text": " So, let's say I am writing anything.  Harry's course is good.  And this is Sigma's course.  And let's say I write something else here.  I can write a lot of things here."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 755.28,
+            "end": 766.12,
+            "text": " So, I will write here and keep watching here.  And I can also make it small or big.  So, I will see the live update here.  If you have ever seen my old videos,  then I used this extension of Live Server."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 766.12,
+            "end": 771.4,
+            "text": " Either this extension was not there  or I didn't know.  Whatever it is, it is.  Okay.  Now, if something new comes,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 771.4,
+            "end": 780.4,
+            "text": " it takes time to find out.  But this is something that you should use.  Because I use AEC in my daily life.  I do web development.  Many people asked"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 780.4,
+            "end": 786.12,
+            "text": " whether you also do web development  or just teach.  Oh, I do it.  I make websites.  I don't just make videos."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 786.12,
+            "end": 793.48,
+            "text": " I also work by making websites.  And yes, I earn a lot of money  by making websites.  Now, all this code that I am writing,  you will get it on GitHub."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 793.48,
+            "end": 801.48,
+            "text": " So, you will go to the description of the video  or any video,  the course,  you will go to the description of any video.  So, you will get the code of that corresponding video."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 801.48,
+            "end": 809.48,
+            "text": " You don't have to worry about that.  Now, I will close this.  Because my preview is visible here.  Now, suppose HTML, CSS, JavaScript,  which we talked about,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 809.48,
+            "end": 817.48,
+            "text": " about which we talked so much in the last video.  Now, I will tell you how to link all these.  Now, you will say,  yes, okay, you made index.html.  Very good."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 817.48,
+            "end": 825.5600000000001,
+            "text": " The title is also visible here.  See, here is the first website  of this course.  Suppose I change its name to  Sigma Web Development Course,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 825.5600000000001,
+            "end": 836.5600000000001,
+            "text": " then it will change.  Sigma Web Development Course.  Here, it is written as Sigma Web Development Course.  And you can see here  that it has been updated."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 836.5600000000001,
+            "end": 843.5600000000001,
+            "text": " So, it will keep getting updated.  It will be a live update.  Now, I want my background to be red.  Okay.  This kind of work is done with CSS."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 843.5600000000001,
+            "end": 849.5600000000001,
+            "text": " So, I can write here,  body  and background color  red.  Okay."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 849.64,
+            "end": 855.64,
+            "text": " This is the beauty of CSS.  I will teach you CSS  and I will teach you in such a way  that you will not be able to forget it even if you want to.  Don't worry."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 855.64,
+            "end": 860.64,
+            "text": " What is written here?  Now, understand that this is CSS  which makes the color of the body red.  Okay.  And here,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 860.64,
+            "end": 865.64,
+            "text": " you see  whether the color of the body will be red or not.  Tell me in the comment section.  Now, I will tell beginners  that it will not be red."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 865.64,
+            "end": 870.64,
+            "text": " Okay.  Why it will not be red?  Beginners will think that it will be red.  But it will not be.  There is not such a good world."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 870.64,
+            "end": 877.72,
+            "text": " This HTML file is running now.  It does not know about this CSS file.  Now, what is going on in my house?  What does my neighbor know?  Now, suppose I have made lentils here."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 877.72,
+            "end": 883.72,
+            "text": " And I expect  that suppose my neighbor has made rice.  And suppose I expect  that I eat it together.  It does not happen."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 883.72,
+            "end": 888.72,
+            "text": " You can eat it sometimes.  But you understand  what I am saying.  So, we will have to link.  You will have to link."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 888.72,
+            "end": 893.72,
+            "text": " You will have to go  and tell the neighbor  that we will eat together.  I am making lentils.  You eat rice."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 893.72,
+            "end": 898.72,
+            "text": " There will be a handshake here.  So, how will that handshake happen?  In HTML,  you will tell  where is your CSS file."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 898.72,
+            "end": 903.72,
+            "text": " So, there is a link tag.  And you will also know  the reason  not to use notepad here.  As soon as I link"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 903.72,
+            "end": 908.8000000000001,
+            "text": " here,  see here  link colon CSS.  As soon as I select this,  see here"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 908.8000000000001,
+            "end": 913.8000000000001,
+            "text": " it has done half of my work.  I have written  rel is equal to style sheet.  I would have to type this  manually in notepad."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 913.8000000000001,
+            "end": 918.8000000000001,
+            "text": " This is the syntax of HTML.  I would have to write this.  But here,  automatically  it has come."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 918.8000000000001,
+            "end": 923.8000000000001,
+            "text": " Now, style.css  is my luck.  Its name is also style.css  of the file.  And here also,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 923.8000000000001,
+            "end": 928.8000000000001,
+            "text": " style.css is given.  If its name was harry.css,  then I would have written  harry.css here.  And guess what?"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 928.8000000000001,
+            "end": 933.8000000000001,
+            "text": " Now, my background  has become red here.  Now, if I want  my text to become white,  then I will write"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 933.88,
+            "end": 938.88,
+            "text": " color text here.  I can write  color white.  Now, nothing will work  here."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 938.88,
+            "end": 943.88,
+            "text": " I have written  color white.  See, it has become white.  The valid CSS syntax  will work."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 943.88,
+            "end": 948.88,
+            "text": " And we will talk about it  later in this course.  So, this is done  which was our CSS.  Now, how will"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 948.88,
+            "end": 953.88,
+            "text": " this JavaScript work?  If I write alert here  and I write  welcome to  sigma"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 953.88,
+            "end": 958.88,
+            "text": " web development  course,  suppose I have written  welcome to  sigma web development"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 958.88,
+            "end": 963.96,
+            "text": " course,  then what will happen?  Will there be an alert?  Why not an alert?  Why not an alert?"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 963.96,
+            "end": 968.96,
+            "text": " I will tell you  that this syntax  is absolutely correct.  There is no problem  in the syntax."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 968.96,
+            "end": 973.96,
+            "text": " And I will also  read JavaScript very well.  So, don't take this  tension.  What did I write?"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 973.96,
+            "end": 978.96,
+            "text": " This is the  JavaScript code  which will flash  welcome to  sigma web development"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 978.96,
+            "end": 983.96,
+            "text": " course on the screen  in a very simple way.  Why didn't it flash?  Has my computer  become bad?"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 983.96,
+            "end": 988.96,
+            "text": " No, my computer  is absolutely fine.  I want to tell you  that I have to  include the script."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 988.96,
+            "end": 994.0400000000001,
+            "text": " And let's include  the script  just before the body.  I will write script.js  in src."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 994.0400000000001,
+            "end": 999.0400000000001,
+            "text": " How did I write this?  First of all,  I wrote script here.  Okay,  first of all,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 999.0400000000001,
+            "end": 1004.0400000000001,
+            "text": " I wrote script here.  Emmet abbreviation.  What is Emmet?  Emmet is a plugin  which is built-in"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1004.0400000000001,
+            "end": 1009.0400000000001,
+            "text": " in VS code.  As you select it,  it will be  auto-complete.  Now if I am writing"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1009.0400000000001,
+            "end": 1014.0400000000001,
+            "text": " script here  and I am selecting  colon src here,  then it means  that I want to"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1014.0400000000001,
+            "end": 1019.0400000000001,
+            "text": " give a source file.  If you want,  you can type it  manually as well.  But the suggestions"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1019.0400000000001,
+            "end": 1024.12,
+            "text": " that are being given here  make your  development more faster.  They make you  an amazing developer"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1024.12,
+            "end": 1029.12,
+            "text": " and increase  your powers  so that you  can't get into trouble  and as soon as possible"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1029.12,
+            "end": 1034.12,
+            "text": " your as a developer  can be self-sufficient.  src is equal to  script.js  You can see"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1034.12,
+            "end": 1039.12,
+            "text": " here.  I have included it.  Now I will come here.  So you see  I have come here."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1039.12,
+            "end": 1044.12,
+            "text": " Welcome to  Sigma Web Development Course.  Everyone write  in the comment  that I have become"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1044.12,
+            "end": 1049.12,
+            "text": " self-sufficient.  Write it  because I know  that you have become  self-sufficient"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1049.12,
+            "end": 1054.1999999999998,
+            "text": " by seeing this box  and JavaScript  has also started.  Now your self-sufficiency  has gone."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1054.1999999999998,
+            "end": 1059.1999999999998,
+            "text": " I will reload it  and it will come again.  I will click on OK  and it will stop.  So as soon as I"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1059.1999999999998,
+            "end": 1064.1999999999998,
+            "text": " visit this website,  I will see an alert here.  This is called  an alert in JavaScript.  I will tell you"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1064.1999999999998,
+            "end": 1069.1999999999998,
+            "text": " what is JavaScript.  Don't say that  you didn't tell the alert.  I don't want to start  weirdly."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1069.1999999999998,
+            "end": 1074.1999999999998,
+            "text": " I will finish HTML  and then CSS  and then JavaScript.  So don't take  tension at all."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1074.1999999999998,
+            "end": 1079.1999999999998,
+            "text": " And along with this,  the best practices  that I am telling you  as I am telling you,  you keep them in mind"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1079.28,
+            "end": 1084.28,
+            "text": " and it will help you.  Like I said,  you can use  the live server if you want.  Nothing wrong in that."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1084.28,
+            "end": 1089.28,
+            "text": " Use the live preview  from Microsoft.  Awesome.  Now I want you all  to write Sigma batch OP"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1089.28,
+            "end": 1094.28,
+            "text": " in the comment.  If everyone is having fun  in the course,  then put Sigma batch OP  in the comment."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1094.28,
+            "end": 1099.28,
+            "text": " It will be fun to see.  Yes, this is a batch.  What happened if it is a free course?  It is a batch.  So write Sigma course OP"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1099.28,
+            "end": 1104.28,
+            "text": " with a hashtag.  It will be fun.  Now many people  had a comment  in the last video"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1104.28,
+            "end": 1109.36,
+            "text": " that how to do  this mouse wheel.  So you simply have to go  to settings  and here you have to"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1109.36,
+            "end": 1114.36,
+            "text": " check the editor  mouse wheel zoom.  Then you press control  with the mouse wheel.  I have pressed control here."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1114.36,
+            "end": 1119.36,
+            "text": " As soon as I do this,  I will be able to  zoom in.  And if I do the command  palette by right clicking here,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1119.36,
+            "end": 1124.36,
+            "text": " then I can also toggle  the screen cast mode here.  Then whatever I will write here,  you will get to see it.  I have not toggled"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1124.36,
+            "end": 1129.36,
+            "text": " the screen cast mode  in this video  because you already know  what type I am doing.  Okay, so I can also toggle"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1129.36,
+            "end": 1134.36,
+            "text": " the screen cast mode  in this way.  That is, I can turn it on  so that you can see  all the things"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1134.36,
+            "end": 1139.4399999999998,
+            "text": " that I am doing  below.  In the last video,  I talked about  how websites work"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1139.4399999999998,
+            "end": 1144.4399999999998,
+            "text": " and we talked about  this and what we  talked about,  you understood very well.  Now I will take"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1144.4399999999998,
+            "end": 1149.4399999999998,
+            "text": " an example of  iPhone 15 Pro Max  and I will show you  by ordering  how the client-server"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1149.4399999999998,
+            "end": 1154.4399999999998,
+            "text": " interaction will be  whenever a user  orders an iPhone.  Okay, so you will  find it interesting."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1154.4399999999998,
+            "end": 1159.4399999999998,
+            "text": " I will show you here.  So guys,  how does the website  work here?  I have come to explain"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1159.4399999999998,
+            "end": 1164.4399999999998,
+            "text": " on apple.com.  Now see,  apple.com is a website.  Okay, their data  must have come"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1164.4399999999998,
+            "end": 1169.52,
+            "text": " from the server  up to here.  Okay, whatever  these HTML files are,  I will click on"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1169.52,
+            "end": 1174.52,
+            "text": " pre-order quickly  and after this  I will simply  when I am recording,  it has not even come"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1174.52,
+            "end": 1179.52,
+            "text": " by the way,  it is saying that  it will come now  on September.  I will select 15 Pro Max"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1179.52,
+            "end": 1184.52,
+            "text": " and take any color  like black titanium.  What is going on?  Let's take 250 GB,  let's take no trade-in,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1184.52,
+            "end": 1189.52,
+            "text": " no apple coverage.  After this,  you see what  they did here.  Communication is"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1189.52,
+            "end": 1194.52,
+            "text": " going on  from their server.  So in total,  this is the HTML CSS  JavaScript that"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1194.52,
+            "end": 1199.6,
+            "text": " you can see  here.  I have sourced  its view page  here."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1199.6,
+            "end": 1204.6,
+            "text": " So I can see  it here like this.  And this is  our original website  on which we were"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1204.6,
+            "end": 1209.6,
+            "text": " working.  Now I will check out  quickly here.  I will continue  as a guest."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1209.6,
+            "end": 1214.6,
+            "text": " I will show you  a fun thing.  As soon as I click  on inspect,  I will click on network."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1214.6,
+            "end": 1219.6,
+            "text": " Now see,  2 and 4 communication  is going on  with apple's servers.  Which means"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1219.6,
+            "end": 1224.6,
+            "text": " that here,  as I am doing  action here,  JavaScript is  communicating"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1224.6799999999998,
+            "end": 1229.6799999999998,
+            "text": " with Apple.  I will say here,  I would like to be  delivered.  Continuing shipping"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1229.6799999999998,
+            "end": 1234.6799999999998,
+            "text": " address.  I will put  the name and  all.  It will deliver"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1234.6799999999998,
+            "end": 1239.6799999999998,
+            "text": " on 19th October.  If the shipping  comes,  I will tell you.  I will keep"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1239.6799999999998,
+            "end": 1244.6799999999998,
+            "text": " the update.  Okay?  Yes,  everything is fine.  Terms and"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1244.6799999999998,
+            "end": 1249.6799999999998,
+            "text": " conditions.  I read it.  I agree.  Place your order.  I agreed."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1249.6799999999998,
+            "end": 1254.76,
+            "text": " Place your order.  Like the video  because I order  iPhones to explain  I requested"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1254.76,
+            "end": 1259.76,
+            "text": " something from  Apple.com server.  I said,  give me  an iPhone 15"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1259.76,
+            "end": 1264.76,
+            "text": " Pro Max.  Apple.com said  take it.  So this kind of  communication between"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1264.76,
+            "end": 1269.76,
+            "text": " the server and  client is through  JavaScript.  Without loading  the page."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1269.76,
+            "end": 1274.76,
+            "text": " Like you saw,  I selected  iPhone here.  After that,  I clicked"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1274.76,
+            "end": 1279.76,
+            "text": " different things.  So all those things  are like that.  How are they?  With the help of"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1279.76,
+            "end": 1284.84,
+            "text": " JavaScript.  How is the  styling?  I hope you  remember this example."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1284.84,
+            "end": 1289.84,
+            "text": " And if the phone  comes,  I will show you.  Otherwise,  many people will"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1289.84,
+            "end": 1294.84,
+            "text": " say that it is  fake.  I will show you  when the phone  comes."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1294.84,
+            "end": 1299.84,
+            "text": " I will unbox  it in front of you.  So this is how  your websites work.  How to communicate"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1299.84,
+            "end": 1304.84,
+            "text": " with a client server.  I hope you  understood from  this example.  Tell me in"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1304.84,
+            "end": 1309.84,
+            "text": " the comment section  if I want to  give away this  iPhone.  What will"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1309.84,
+            "end": 1314.9199999999998,
+            "text": " be the best thing?  You will also  tell me.  Now I want to  tell you where"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1314.9199999999998,
+            "end": 1319.9199999999998,
+            "text": " you will get  notes and cheat sheets.  If you go to  codvidari.com  slash notes,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1319.9199999999998,
+            "end": 1324.9199999999998,
+            "text": " you will get  to see notes.  And you can  download notes here.  Along with that,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1324.9199999999998,
+            "end": 1329.9199999999998,
+            "text": " you will get to see  cheat sheets below.  For example,  if I want to  access the HTML cheat"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1329.9199999999998,
+            "end": 1334.9199999999998,
+            "text": " sheet,  then I can  access the cheat  sheet here.  There are"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1334.9199999999998,
+            "end": 1339.9199999999998,
+            "text": " all elements here.  But now in this  course,  you stay,  I will tell you"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1339.9199999999998,
+            "end": 1345.0,
+            "text": " about all the  elements.  You can download  PDF notes.  I have written"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1345.0,
+            "end": 1350.0,
+            "text": " handwritten.  You will enjoy  reading.  In this course,  I will tell you"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1350.0,
+            "end": 1355.0,
+            "text": " everything.  But if you  download these  notes,  you will enjoy"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1355.0,
+            "end": 1360.0,
+            "text": " even more.  I will make  your learning  experience so  buttery that"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1360.0,
+            "end": 1365.0,
+            "text": " you will also  say that it  was fun.  Now I want  all of you to"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1365.0,
+            "end": 1370.0,
+            "text": " do one thing,  put the  initial review  of this course  in this first"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1370.08,
+            "end": 1375.08,
+            "text": " video.  Write how  you liked this  course and give me  stars out of five."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1375.08,
+            "end": 1380.08,
+            "text": " Tell me by  rating it star.  We are talking about  initial review.  I know that the"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1380.08,
+            "end": 1385.08,
+            "text": " course has not gone  far, but what  quality and all  these things,  seeing everything,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1385.08,
+            "end": 1390.08,
+            "text": " I am commenting  below in the  first video.  So if you  do this work,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1390.08,
+            "end": 1395.08,
+            "text": " I will like it  from the heart.  Go to the  first video and  rate this course."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1395.08,
+            "end": 1400.1599999999999,
+            "text": " Now we will  talk about  how you can  earn money  by making"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1400.1599999999999,
+            "end": 1405.1599999999999,
+            "text": " websites.  There are  many websites  that you can  make and"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1405.1599999999999,
+            "end": 1410.1599999999999,
+            "text": " you will get  a lot of good  money by making  them.  Many people"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1410.1599999999999,
+            "end": 1415.1599999999999,
+            "text": " integrate  APIs and  integrate APIs  and many people  earn a lot of"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1415.1599999999999,
+            "end": 1420.1599999999999,
+            "text": " good money.  Many people  say that chat  gpt has come,  chat gpt has"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1420.1599999999999,
+            "end": 1425.1599999999999,
+            "text": " come, then  nothing will  happen, everything  chat gpt  is done, but"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1425.1599999999999,
+            "end": 1430.24,
+            "text": " this is not  true.  Chat gpt  is used  the most"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1430.24,
+            "end": 1435.24,
+            "text": " and you  can save  your time.  In fact,  I tell the truth,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1435.24,
+            "end": 1440.24,
+            "text": " since the time  chat gpt has come,  I am able to  deliver more  to my freelancing"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1440.24,
+            "end": 1445.24,
+            "text": " clients.  I have to make  as many websites  as I had to  from the beginning."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1445.24,
+            "end": 1450.24,
+            "text": " I do more than  half of the  work with  chat gpt and  I do the"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1450.24,
+            "end": 1455.24,
+            "text": " work that  chat gpt can't  do.  Finally, I  package it and"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1455.24,
+            "end": 1460.32,
+            "text": " give it to  everyone.  I can't do  everything,  you have to"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1460.32,
+            "end": 1465.32,
+            "text": " use chat gpt and  after that  make websites and  deliver to  freelance clients."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1465.32,
+            "end": 1470.32,
+            "text": " Where will you  get freelancing  clients?  You can go to  websites like"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1470.32,
+            "end": 1475.32,
+            "text": " Fiverr.  Yes, I know  that it is  difficult to  get work on"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1475.32,
+            "end": 1480.32,
+            "text": " Fiverr, but  you can go  to the buyer  request here.  There is an"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1480.32,
+            "end": 1485.32,
+            "text": " option for  buyer request  in Fiverr,  do research.  If you go here,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1485.32,
+            "end": 1490.3999999999999,
+            "text": " you can  get work.  You will  start from here.  As you get"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1490.3999999999999,
+            "end": 1495.3999999999999,
+            "text": " good reviews on  your gig, you  will earn more  money.  Suppose you"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1495.3999999999999,
+            "end": 1500.3999999999999,
+            "text": " have a gig of  Fiverr, no one  has ever ordered  on it, then  you will never"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1500.3999999999999,
+            "end": 1505.3999999999999,
+            "text": " get work easily.  But if  5-6 people  ordered on  your gig and"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1505.3999999999999,
+            "end": 1510.3999999999999,
+            "text": " everyone gave  you 5 stars,  then things  become easy  for you."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1510.3999999999999,
+            "end": 1515.3999999999999,
+            "text": " Because the  buyers want  that the  credibility of  the people they"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1515.48,
+            "end": 1520.48,
+            "text": " are  talking to  is not  wasted.  So here"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1520.48,
+            "end": 1525.48,
+            "text": " Fiverr, Upwork,  there are  many other  freelancing websites  that you can"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1525.48,
+            "end": 1530.48,
+            "text": " try on.  But before  trying, you should  know how to  make good"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1530.48,
+            "end": 1535.48,
+            "text": " websites.  And in  today's date,  responsive,  cutting-edge"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1535.48,
+            "end": 1540.48,
+            "text": " technologies  to be used,  suppose you  want to  integrate"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1540.48,
+            "end": 1545.56,
+            "text": " the charge  GPT API,  you will  get such  a job."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1545.56,
+            "end": 1550.56,
+            "text": " If you  get a job  as a web  developer,  which if you"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1550.56,
+            "end": 1555.56,
+            "text": " become a good  web developer,  then you will  get a job.  And it is not"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1555.56,
+            "end": 1560.56,
+            "text": " that the  jobs have  become less.  In fact,  the demand"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1560.56,
+            "end": 1565.56,
+            "text": " for senior  developers is increasing  and their  package is also  increasing."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1565.56,
+            "end": 1570.56,
+            "text": " People are  earning more  money in coding  than they  were earning"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1570.56,
+            "end": 1575.6399999999999,
+            "text": " before.  If you are  a very basic  developer,  then you"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1575.6399999999999,
+            "end": 1580.6399999999999,
+            "text": " can start  with  the  basics.  For example,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1580.6399999999999,
+            "end": 1585.6399999999999,
+            "text": " you can  start  with  the  basic"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1585.6399999999999,
+            "end": 1590.6399999999999,
+            "text": " basics.  If you  are a  very basic  developer,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1590.6399999999999,
+            "end": 1595.6399999999999,
+            "text": " then  you  can  start  with"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1595.6399999999999,
+            "end": 1600.6399999999999,
+            "text": " the  basic  basics.  And  if you"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1600.6399999999999,
+            "end": 1605.72,
+            "text": " are a  beginner,  then  you  can"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1605.72,
+            "end": 1610.72,
+            "text": " start  with  the  basic  basics."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1610.72,
+            "end": 1615.72,
+            "text": " If  you  are a  beginner,  then"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1615.72,
+            "end": 1620.72,
+            "text": " you  can  start  with  the"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1620.72,
+            "end": 1625.72,
+            "text": " basic  basics.  If  you  are a"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1625.72,
+            "end": 1630.72,
+            "text": " beginner,  then  you  can  start"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1630.72,
+            "end": 1635.8,
+            "text": " with  the  basic  basics.  If"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1635.8,
+            "end": 1640.8,
+            "text": " you  are a  beginner,  then  you"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1640.8,
+            "end": 1645.8,
+            "text": " can  start  with  the  basic"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1645.8,
+            "end": 1650.8,
+            "text": " basics.  If  you  are a  beginner,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1650.8,
+            "end": 1655.8,
+            "text": " then  you  can  start  with"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1655.8,
+            "end": 1660.8,
+            "text": " the  basic  basics.  If  you"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1660.8799999999999,
+            "end": 1665.8799999999999,
+            "text": " are a  beginner,  then  you  can"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1665.8799999999999,
+            "end": 1670.8799999999999,
+            "text": " start  with  the  basic  basics."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1670.8799999999999,
+            "end": 1675.8799999999999,
+            "text": " If  you  are a  beginner,  then"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1675.8799999999999,
+            "end": 1680.8799999999999,
+            "text": " you  can  start  with  the"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1680.8799999999999,
+            "end": 1685.8799999999999,
+            "text": " basic  basics.  If  you  are a"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1685.8799999999999,
+            "end": 1690.96,
+            "text": " beginner,  then  you  can  start"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website ",
+            "start": 1690.96,
+            "end": 1694.96,
+            "text": " with  the  basic  basics."
+        }
+    ],
+    "text": " In the last video, you guys gave me a lot of love. It's my pleasure to keep this course free. I deserve a like for this free course. You know, when I started web development, there was no comprehensive course of this quality. Forget free or paid, there was no such course. So I can understand how important it is for some people to be free of this course. And trust me, I live up to the expectations. With that said, like this video because in this video, we are going to make our first website. And in this video, I am going to order iPhone 15 Pro Max. Why? How? What will happen? We will see that in the next video. For many of you, this will be the first website of your life. So it's going to be fun. You guys are excited, right? Write in the comment, I am excited. And whatever I am excited will write in the comment, I will give heart to all those comments. In this video, we will learn to link an HTML website with CSS and JavaScript. Along with that, in this video, I am going to give you guys notes, cheat sheets, and many more resources. I will tell you guys some techniques that I have learned in years. And it will literally make your web development speed 10x. In this video, we will also see how to make our VS Code awesome. So that your VS Code screen will look killer. In this video, I will also tell you guys how to earn money from web development. So let's start with full energy. Let's roll the intro. \ud83c\udfb6Music\ud83c\udfb6 Alright guys, so we have come to our computer screen. Before moving forward in the video, I would like to tell you all that do access this playlist. Secondly, we are very close to 5 million subscribers. So if you haven't hit the subscribe button yet, then do it. In today's video, we are going to make our first website, as I have already told you. The first thing we will do is to customize our VS Code. So this is the folder in which we started our web development series. Now I have to give you guys the source code of this web development series. So I will configure Git here. Now it is not necessary for you to know about Git. But I will fire the GitHub desktop here. And what I will do here is that I will add a new repository. I will click on add here. I will click on create new repository. I will name it Sigma Web Dev Codes. And this is our folder. So I will select this folder. I will initialize this repository with readme. And I will write source code for Sigma Web Development Codes here. I will click on create repository. By doing this, a repository will be created here whose name is Sigma Web Dev Codes. I will put all the things relevant to the first video here. So these two files were relevant to the first video. So I will name it video 1. Right click, new folder. I will make it video 1. And I will move these two files to the video 1 folder. I am not pushing all these videos on Git. These are sample videos. You can use your sample videos. So now I will update the source code here. And I will push it on Git here. Now how do we push it on Git here? You don't need to learn this. But this procedure is very simple. Why do we use Git? I would like to tell you that Git is used by web developers. And general coders use it. When they have to collaborate their code with other people. So what will happen is that you will work with many programmers. And those programmers will collaborate with your source code. And to do this kind of collaboration, they will also push some code. You will also push some code. Maybe one person is editing a file. One person is editing another file. So GitHub is used here. And what is GitHub Desktop? GitHub Desktop is a utility to use Git. The difference between Git and GitHub is that Git is open source. But GitHub is a Microsoft-owned company. And by using Git, repositories help you to host on your web interface. I will tell you more about Git in the coming videos. But I am pushing this repository on my GitHub account. So you will get the link of the repository in the description. So as I give you links, you will get all the code if you follow it. And I will talk about it later. I am making this video, the course, in such a way that absolute beginners can follow it. So as I click on Publish Depository, this code, this folder will sync with my GitHub account. So all the code that I am going to upload here, will go to my GitHub account and will keep syncing. The changes that will be here will be there. If someone has made changes there, then I can pull it here. I can pull it by clicking here, by doing Fetch Origin. I will teach you all this. We will dedicate a whole video to Git. You don't worry at all. I did this thing so that I can give you code. Now I will make a folder called Video2 here. And I will go inside this Video2 folder. I will press Shift-Right Click. And I will do Open with VS Code. So here is Open with Code. You will get this option. If you have installed VS Code as I said. If you have made any changes and you have not checked, those checkboxes that I showed you, then you may have a problem. So we will do No to this. We will dismiss the notification. Now whatever file I make here, like I will make Index.html here, that file will be made here too. So everyone knows about this now. And I know there are a lot of intermediate people here who are saying that we already know all these things. But I am making this course in such a way that all beginners can also follow along. So I will make three files here. One I made here, Index.html. The second file I am going to make, I am going to make style.css. And the third file I am going to make is script.js. And the name of these files can be anything. But I just want to keep these files self-explanatory. So that by looking at their name, we can know what they are doing. Index.html is an HTML file. Script.js is a JavaScript file. Style.css is a style sheet. So I made these three files here. I will go to Index.html and put an exclamation mark. And as soon as I put an exclamation mark, you see this code has come here. I will click on View Word Wrap so that you can see this code. The horizontal scroll bar moves away from the word wrap. I checked the word wrap here. So now you see here that we will understand this code. But for now, you understand that this code is HTML code. Let's use it to make a website. Now come to the extensions tab of VS Code. Extensions are used to enhance the code. We use extensions to make VS Code better. The extensions of VS Code help us write code. So which extension will we use? First of all, I will put some extensions here which will make our VS Code killer. If your friends see it, they will say, brother, do it. So what I will do here quickly is VS Code Icons. There is an extension called VS Code Icons which I will install as soon as I do. You will find out the same way that whatever file it is, like you are seeing here, its icon has come. Earlier this icon was not coming. If you look at the video behind, you can see all these icons here. Thanks for installing VS Code Icons. I will activate it here. And here you can see that our icons are looking good. In the coming time, if we make a folder, like if I made a folder, then this kind of icon will come. So these icons look a little good. We will come back to the extensions tab. And there are a lot of good themes here that you can use. There are some themes, Jellyfish theme, there is one GitHub theme, there are many themes. You can use these themes. But I can only put one theme at a time. This is the default VS Code theme which shows you VS Code in this way. Now if I change my theme, then my VS Code will look different. I will show you which one I will prefer when it comes to theme. First of all, I will show you GitHub theme here how it looks. So GitHub theme is officially a theme provided by GitHub. Now look here, GitHub dark, GitHub light, GitHub dimmed, GitHub colorblind. I like this one a little better because the colors in it are... Sorry, I don't like this one. I will choose GitHub dark here because the colors here are different. Another favorite theme is Jellyfish. And here a lot of people like Jellyfish theme. If I install it, then you will see VS Code like this. You can see Jellyfish like this. After this, there is a material theme which is also very popular. And if I use material theme here, material theme and material theme icons, we had to install this material theme. If you have installed material theme icons, then you can change your icons to control which extension. And here we have installed a lot of extensions. I will also tell you how to delete extensions. Here I am showing VS Code material theme icons like this. And if you want, you can use VS Code icons. If I want the material theme icons to be removed, then I will simply remove it like this. And all my extensions are visible here. Like this material theme icon. And I want to use these, then I will select it. And if I want, I can also uninstall it. And sometimes when we uninstall anything, then reload is required. So I will have to click on reload required. And when I click on reload required, then my VS Code will be reloaded. So you can customize your VS Code according to your needs. I will select VS Code icons so that my icons look like this. I like this a little. I also like Jellyfish theme a lot. After this, there is another extension whose name is Prettier. I will not install it either. But I just want to tell you. There is another extension, ES7. You will know when we react. And yes, we will react in this course. For all those asking. Sorry for the spoilers, but we are going to react in this course. So here is ES7 plus React Redux, React Native Snippets. This extension gives you React snippets. We will use it when we react. We will not install it for now. But now the most important extension is called Live Preview. We will install this extension called Live Preview. Because this is a very useful extension. All the extensions I told you mostly help you to change the look and feel of VS Code. But the extension I am telling you today, Live Preview, will be used by you. Let's come to our HTML, CSS, JavaScript files. So here are our HTML, CSS, and JavaScript files. This is the HTML file. This is some code which tells the website how to look. Okay? So here I am saying that the title should have a document. I will write here Harry's first website. Harry's course's first website. The course's first website. Harry's first website will be a lie. Your first website. You guys write your name in this. Okay? Whatever your name is. Key first website. And if I write inside the body, Hey, this is my first website. And everyone write congratulations in the comment section. Everyone who has this first website, write congratulations. Congratulations for my first website. Okay? And congratulate each other. Make the atmosphere in the comment section. I also come to the comment section. Okay? And I give you all my heart. Hey, this is my first website. Okay? Now, how should I see this? The biggest question of people is there are two ways to see. The extension we have installed, Live Server. Live Preview, sorry. Earlier, Live Server was also used a lot. But Microsoft has released Live Preview. So, I will recommend this latest extension. Live Server also works. But I am not going to run Live Server. I am going to use Live Preview. After installing Live Preview, you see this icon here. You are seeing above. If you click on this, your website will look like this. Now you say that, I want to see this website here. In the browser. Because my website will be visible in the browser. So, if you want to see this in the browser, click here. Open in browser. It will open in the browser. And I will tell you a fun thing. Listen to the fun thing too. You can close it from here. And you can write here. Harry's course is good. Assume you have written it. I am praising my course. But yes, what is it? Harry's course is good. Okay, I wrote it here. And you noticed one thing here. I did not reload this website. But even after that, it updated this content here. Which I wrote in this VS Code. That means whatever I write here, will be updated here without reloading. Will it be done or not? Clap. What should be the clap for us? Okay, it will be done. And here, Hey, this is my first website. Harry's course is good. Now I will write here. Sigma Harry's course is good. Sigma Harry's course is good. Sigma Harry's course is good. Okay. So, here you saw how this extension will help us. If you reload it, it will not make any difference. Because it is being reloaded live. So, there are two things. Sometimes we want our page to be previewed here. I will close it. So that you can see the code. Sometimes we want our code to be seen here. Because we want to see its live preview. So, let's say I am writing anything. Harry's course is good. And this is Sigma's course. And let's say I write something else here. I can write a lot of things here. So, I will write here and keep watching here. And I can also make it small or big. So, I will see the live update here. If you have ever seen my old videos, then I used this extension of Live Server. Either this extension was not there or I didn't know. Whatever it is, it is. Okay. Now, if something new comes, it takes time to find out. But this is something that you should use. Because I use AEC in my daily life. I do web development. Many people asked whether you also do web development or just teach. Oh, I do it. I make websites. I don't just make videos. I also work by making websites. And yes, I earn a lot of money by making websites. Now, all this code that I am writing, you will get it on GitHub. So, you will go to the description of the video or any video, the course, you will go to the description of any video. So, you will get the code of that corresponding video. You don't have to worry about that. Now, I will close this. Because my preview is visible here. Now, suppose HTML, CSS, JavaScript, which we talked about, about which we talked so much in the last video. Now, I will tell you how to link all these. Now, you will say, yes, okay, you made index.html. Very good. The title is also visible here. See, here is the first website of this course. Suppose I change its name to Sigma Web Development Course, then it will change. Sigma Web Development Course. Here, it is written as Sigma Web Development Course. And you can see here that it has been updated. So, it will keep getting updated. It will be a live update. Now, I want my background to be red. Okay. This kind of work is done with CSS. So, I can write here, body and background color red. Okay. This is the beauty of CSS. I will teach you CSS and I will teach you in such a way that you will not be able to forget it even if you want to. Don't worry. What is written here? Now, understand that this is CSS which makes the color of the body red. Okay. And here, you see whether the color of the body will be red or not. Tell me in the comment section. Now, I will tell beginners that it will not be red. Okay. Why it will not be red? Beginners will think that it will be red. But it will not be. There is not such a good world. This HTML file is running now. It does not know about this CSS file. Now, what is going on in my house? What does my neighbor know? Now, suppose I have made lentils here. And I expect that suppose my neighbor has made rice. And suppose I expect that I eat it together. It does not happen. You can eat it sometimes. But you understand what I am saying. So, we will have to link. You will have to link. You will have to go and tell the neighbor that we will eat together. I am making lentils. You eat rice. There will be a handshake here. So, how will that handshake happen? In HTML, you will tell where is your CSS file. So, there is a link tag. And you will also know the reason not to use notepad here. As soon as I link here, see here link colon CSS. As soon as I select this, see here it has done half of my work. I have written rel is equal to style sheet. I would have to type this manually in notepad. This is the syntax of HTML. I would have to write this. But here, automatically it has come. Now, style.css is my luck. Its name is also style.css of the file. And here also, style.css is given. If its name was harry.css, then I would have written harry.css here. And guess what? Now, my background has become red here. Now, if I want my text to become white, then I will write color text here. I can write color white. Now, nothing will work here. I have written color white. See, it has become white. The valid CSS syntax will work. And we will talk about it later in this course. So, this is done which was our CSS. Now, how will this JavaScript work? If I write alert here and I write welcome to sigma web development course, suppose I have written welcome to sigma web development course, then what will happen? Will there be an alert? Why not an alert? Why not an alert? I will tell you that this syntax is absolutely correct. There is no problem in the syntax. And I will also read JavaScript very well. So, don't take this tension. What did I write? This is the JavaScript code which will flash welcome to sigma web development course on the screen in a very simple way. Why didn't it flash? Has my computer become bad? No, my computer is absolutely fine. I want to tell you that I have to include the script. And let's include the script just before the body. I will write script.js in src. How did I write this? First of all, I wrote script here. Okay, first of all, I wrote script here. Emmet abbreviation. What is Emmet? Emmet is a plugin which is built-in in VS code. As you select it, it will be auto-complete. Now if I am writing script here and I am selecting colon src here, then it means that I want to give a source file. If you want, you can type it manually as well. But the suggestions that are being given here make your development more faster. They make you an amazing developer and increase your powers so that you can't get into trouble and as soon as possible your as a developer can be self-sufficient. src is equal to script.js You can see here. I have included it. Now I will come here. So you see I have come here. Welcome to Sigma Web Development Course. Everyone write in the comment that I have become self-sufficient. Write it because I know that you have become self-sufficient by seeing this box and JavaScript has also started. Now your self-sufficiency has gone. I will reload it and it will come again. I will click on OK and it will stop. So as soon as I visit this website, I will see an alert here. This is called an alert in JavaScript. I will tell you what is JavaScript. Don't say that you didn't tell the alert. I don't want to start weirdly. I will finish HTML and then CSS and then JavaScript. So don't take tension at all. And along with this, the best practices that I am telling you as I am telling you, you keep them in mind and it will help you. Like I said, you can use the live server if you want. Nothing wrong in that. Use the live preview from Microsoft. Awesome. Now I want you all to write Sigma batch OP in the comment. If everyone is having fun in the course, then put Sigma batch OP in the comment. It will be fun to see. Yes, this is a batch. What happened if it is a free course? It is a batch. So write Sigma course OP with a hashtag. It will be fun. Now many people had a comment in the last video that how to do this mouse wheel. So you simply have to go to settings and here you have to check the editor mouse wheel zoom. Then you press control with the mouse wheel. I have pressed control here. As soon as I do this, I will be able to zoom in. And if I do the command palette by right clicking here, then I can also toggle the screen cast mode here. Then whatever I will write here, you will get to see it. I have not toggled the screen cast mode in this video because you already know what type I am doing. Okay, so I can also toggle the screen cast mode in this way. That is, I can turn it on so that you can see all the things that I am doing below. In the last video, I talked about how websites work and we talked about this and what we talked about, you understood very well. Now I will take an example of iPhone 15 Pro Max and I will show you by ordering how the client-server interaction will be whenever a user orders an iPhone. Okay, so you will find it interesting. I will show you here. So guys, how does the website work here? I have come to explain on apple.com. Now see, apple.com is a website. Okay, their data must have come from the server up to here. Okay, whatever these HTML files are, I will click on pre-order quickly and after this I will simply when I am recording, it has not even come by the way, it is saying that it will come now on September. I will select 15 Pro Max and take any color like black titanium. What is going on? Let's take 250 GB, let's take no trade-in, no apple coverage. After this, you see what they did here. Communication is going on from their server. So in total, this is the HTML CSS JavaScript that you can see here. I have sourced its view page here. So I can see it here like this. And this is our original website on which we were working. Now I will check out quickly here. I will continue as a guest. I will show you a fun thing. As soon as I click on inspect, I will click on network. Now see, 2 and 4 communication is going on with apple's servers. Which means that here, as I am doing action here, JavaScript is communicating with Apple. I will say here, I would like to be delivered. Continuing shipping address. I will put the name and all. It will deliver on 19th October. If the shipping comes, I will tell you. I will keep the update. Okay? Yes, everything is fine. Terms and conditions. I read it. I agree. Place your order. I agreed. Place your order. Like the video because I order iPhones to explain I requested something from Apple.com server. I said, give me an iPhone 15 Pro Max. Apple.com said take it. So this kind of communication between the server and client is through JavaScript. Without loading the page. Like you saw, I selected iPhone here. After that, I clicked different things. So all those things are like that. How are they? With the help of JavaScript. How is the styling? I hope you remember this example. And if the phone comes, I will show you. Otherwise, many people will say that it is fake. I will show you when the phone comes. I will unbox it in front of you. So this is how your websites work. How to communicate with a client server. I hope you understood from this example. Tell me in the comment section if I want to give away this iPhone. What will be the best thing? You will also tell me. Now I want to tell you where you will get notes and cheat sheets. If you go to codvidari.com slash notes, you will get to see notes. And you can download notes here. Along with that, you will get to see cheat sheets below. For example, if I want to access the HTML cheat sheet, then I can access the cheat sheet here. There are all elements here. But now in this course, you stay, I will tell you about all the elements. You can download PDF notes. I have written handwritten. You will enjoy reading. In this course, I will tell you everything. But if you download these notes, you will enjoy even more. I will make your learning experience so buttery that you will also say that it was fun. Now I want all of you to do one thing, put the initial review of this course in this first video. Write how you liked this course and give me stars out of five. Tell me by rating it star. We are talking about initial review. I know that the course has not gone far, but what quality and all these things, seeing everything, I am commenting below in the first video. So if you do this work, I will like it from the heart. Go to the first video and rate this course. Now we will talk about how you can earn money by making websites. There are many websites that you can make and you will get a lot of good money by making them. Many people integrate APIs and integrate APIs and many people earn a lot of good money. Many people say that chat gpt has come, chat gpt has come, then nothing will happen, everything chat gpt is done, but this is not true. Chat gpt is used the most and you can save your time. In fact, I tell the truth, since the time chat gpt has come, I am able to deliver more to my freelancing clients. I have to make as many websites as I had to from the beginning. I do more than half of the work with chat gpt and I do the work that chat gpt can't do. Finally, I package it and give it to everyone. I can't do everything, you have to use chat gpt and after that make websites and deliver to freelance clients. Where will you get freelancing clients? You can go to websites like Fiverr. Yes, I know that it is difficult to get work on Fiverr, but you can go to the buyer request here. There is an option for buyer request in Fiverr, do research. If you go here, you can get work. You will start from here. As you get good reviews on your gig, you will earn more money. Suppose you have a gig of Fiverr, no one has ever ordered on it, then you will never get work easily. But if 5-6 people ordered on your gig and everyone gave you 5 stars, then things become easy for you. Because the buyers want that the credibility of the people they are talking to is not wasted. So here Fiverr, Upwork, there are many other freelancing websites that you can try on. But before trying, you should know how to make good websites. And in today's date, responsive, cutting-edge technologies to be used, suppose you want to integrate the charge GPT API, you will get such a job. If you get a job as a web developer, which if you become a good web developer, then you will get a job. And it is not that the jobs have become less. In fact, the demand for senior developers is increasing and their package is also increasing. People are earning more money in coding than they were earning before. If you are a very basic developer, then you can start with the basics. For example, you can start with the basic basics. If you are a very basic developer, then you can start with the basic basics. And if you are a beginner, then you can start with the basic basics. If you are a beginner, then you can start with the basic basics. If you are a beginner, then you can start with the basic basics. If you are a beginner, then you can start with the basic basics. If you are a beginner, then you can start with the basic basics. If you are a beginner, then you can start with the basic basics. If you are a beginner, then you can start with the basic basics. If you are a beginner, then you can start with the basic basics."
+}

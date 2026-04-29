@@ -1,0 +1,9 @@
+I'd be happy to help you with your question about the HTML course.
+
+It seems like you're looking for information on where and how much content is taught about the "h1" tag in the course. From what I can gather, the "h1" tag is first introduced as part of the section on headings, paragraphs, and links (Video 4).
+
+Specifically, the instructor mentions writing a heading with an h1 tag at timestamp 159.76 seconds into Video 4. This suggests that there might be some additional content about h1 tags in this video or possibly in subsequent videos.
+
+To find out more about where exactly the "h1" tag is taught and how much content is covered, I would recommend checking out Video 4 of the course, starting from approximately timestamp 159.76 seconds. From there, you can follow along with the instructor's explanation to see if they cover any additional topics related to h1 tags.
+
+If you're having trouble finding this information or need further clarification, feel free to ask, and I'll do my best to guide you through the course materials!
